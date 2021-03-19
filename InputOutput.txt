@@ -1,0 +1,9 @@
+Input : {"eat", "ate", "tea", "Java", "avja", "apple"}
+Output : 
+[eat, ate, tea] 
+[Java, avja] 
+[apple] 
+Total number of groups of jumbled words: 3
+Group 1 has 3 similar words
+Group 2 has 2 similar words
+Group 3 has 1 similar words
